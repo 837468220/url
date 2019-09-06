@@ -6,6 +6,7 @@ var proxy = "SOCKS5 ipv4.liangfei.vip:11080; SOCKS ipv4.liangfei.vip:11080; DIRE
 
 var rules = [
   "192.168.4.1",
+  ".reddit.com",
   "192.168.88.254",
   "||aptoide.com",
   "||game.gtimg.cn",
