@@ -6,6 +6,7 @@ var proxy = "SOCKS5 192.168.3.80:11080; SOCKS 192.168.3.80:11080; DIRECT;";
 
 var rules = [
   "192.168.4.1",
+  ".reddit.com",
   "192.168.88.254",
   "||aptoide.com",
   "||game.gtimg.cn",
