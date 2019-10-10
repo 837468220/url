@@ -6700,6 +6700,7 @@ var rules = [
   "||xcity.jp",
   ".xcritic.com",
   "|http://cdn*.xda-developers.com",
+  ".xda-developers.com",
   ".xerotica.com",
   "destiny.xfiles.to/ubbthreads",
   ".xfm.pp.ru",
