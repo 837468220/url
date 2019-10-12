@@ -9,7 +9,7 @@ Proxy Auto Config
 
 - [CustomProxy.mobileconfig](/CustomProxy.mobileconfig)
 - [google_about.txt](/google_about.txt)
-- [IPv6 Support for CMCC.mobileconfig](/IPv6 Support for CMCC.mobileconfig)
+- [IPv6_Support_for_CMCC.mobileconfig](/IPv6_Support_for_CMCC.mobileconfig)
 - [pac_1080.txt](/pac_1080.txt)
 - [pac_11080.txt](/pac_11080.txt)
 - [pac_ipv4.liangfei.vip_11080.txt](/pac_ipv4.liangfei.vip_11080.txt)
