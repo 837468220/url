@@ -17,3 +17,4 @@ Proxy Auto Config
 - [pac_ip_11080.txt](/pac_ip_11080.txt)
 - [pac_local.liangfei.vip_11080.txt](/pac_local.liangfei.vip_11080.txt)
 - [pac_local_11080.txt](/pac_local_11080.txt)
+- [xjz.liangfei.vip_8118.pac](/xjz.liangfei.vip_8118.pac)
