@@ -2,7 +2,6 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var proxy = "SOCKS5 local.liangfei.vip:11080; SOCKS local.liangfei.vip:11080; DIRECT;";
-// var proxy = "SOCKS5 149.28.44.20:11080; SOCKS 149.28.44.20:11080; DIRECT;";
 
 var rules = [
   "192.168.4.1",
