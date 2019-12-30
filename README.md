@@ -17,6 +17,7 @@ Proxy Auto Config
 - [pac_local_11080.txt](/pac_local_11080.txt)
 - [pac_socks5.liangfei.vip_11080.txt](/pac_socks5.liangfei.vip_11080.txt)
 - [pac_zhxjzec.liangfei.vip_11080.txt](/pac_zhxjzec.liangfei.vip_11080.txt)
+- [proxy.liangfei.vip.txt](/proxy.liangfei.vip.txt)
 - [proxy.liangfei.vip_8119.pac](/proxy.liangfei.vip_8119.pac)
 - [xjz.liangfei.vip_11080.pac](/xjz.liangfei.vip_11080.pac)
 - [xjz.liangfei.vip_8118.pac](/xjz.liangfei.vip_8118.pac)
